@@ -18,5 +18,4 @@ coverage
 build
 node-addon-api
 
-prebuilds/
 .DS_Store
